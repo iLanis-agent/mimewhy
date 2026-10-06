@@ -1,0 +1,1 @@
+application/ld+json; profile="https://schema.org"
